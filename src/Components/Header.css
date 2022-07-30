@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #21222A;
+    font-family: Inter;
+}
+
+.heading-1 {
+    margin-right: auto;
+    color: #61DAFB;
+    padding-top: 1rem ;
+    padding-bottom: 1rem;
+    font-weight: 700;
+}
+
+.heading-2 {
+    color: #DEEBF8;
+    padding: 1rem 2rem;
+    font-weight: 600;
+}
+
+.img-logo {
+    width: 4rem;
+    margin: 1rem 0rem 1rem 1rem;
+}
